@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A potential Business Analyst",
+    "section": "",
+    "text": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\nSarah Liu\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "",
+    "text": "Take a look at how grant opportunities look like in the U.S.\nGovernment grants can be a game-changer for many businesses, especially startups or organizations seeking financial support for specific projects. With billions of dollars available each year in the U.S., knowing how to navigate and target the right grants is essential. In this blog, we’ll take a look at how you can identify key government grant opportunities and focus on the categories that are receiving the most attention in 2024."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Background\nI hold a Bachelor of Commerce from the University of Melbourne, where I developed a strong interest in data-driven decision-making. This passion led me to pursue a Master of Business Analytics at Monash University, where I am expanding my expertise in data analysis and business strategy.\nI am actively developing key skills in data visualization, data exploration, and statistical thinking, with the goal of applying these tools to solve complex business problems. My background in Finance and Marketing provides me with a unique perspective, allowing me to blend analytical insights with business acumen.\nI am eager to leverage my skills to translate data into actionable insights that support strategic growth and enhance business performance. If there are any BA internship opportunities, please contact me via my email: sarahwuliu0917@gmail.com.\n\n\nHobbies\nTalking about non-academic life, I enjoy quiet a lot of interests:\n\nMusic: I love listening to all kinds of songs and play piano for more than 10 years, still exploring more themes I can play like jazz music other than classical pieces.\nBadminton: I was in the high school badminton team for two years.\nSki: I would also go skiing every winter, it is so excited to fly down the slope to feel the wind and snow.\nHorse-riding: Another sports I also like is horse-riding, building a connection with the horse is such a special experience.\nTravel: In holidays, I love to travel to countries I have not been to, hoping I could experience more different sides of the world.\nPhotography: I am also seeking to take some fabulous photos where possible!"
+  },
+  {
+    "objectID": "posts/welcome/index.html#data-source-and-method",
+    "href": "posts/welcome/index.html#data-source-and-method",
+    "title": "U.S. Grant Opportunities",
+    "section": "Data source and method",
+    "text": "Data source and method\nThe data is sourced from TidyTuesday packgae on {github}[https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-10-03/readme.md]. This data set downloaded are then being filtered to only include the posted or forecasted grants with close date in 2024 or after, since the point of interest is about what could be useful grant opportunities for our clients. ## Data dictionary - opportunity_id: Integer ID for this opportunity. - opportunity_title character Title of the opportunity - expected_number_of_awards integer Expected count of awards - estimated_total_program_funding double Estimated funding amount in dollars - award_ceiling double Maximum individual award amount in dollars - award_floor double Minimum individual award amount in dollars - category: category classified by the function of grant opportunities"
+  },
+  {
+    "objectID": "posts/welcome/index.html#apply-according-to-clients-needs",
+    "href": "posts/welcome/index.html#apply-according-to-clients-needs",
+    "title": "U.S. Grant Opportunities",
+    "section": "Apply according to clients’ needs",
+    "text": "Apply according to clients’ needs\nBy examining top funding categories and individual high-value grants, the report offers insights into where the US government allocates the most resources. The results indicate a substantial focus on health, environment, education, and infrastructure, with key opportunities for companies in these sectors to secure significant funding. The distribution of grant award ceilings and floors are also presented to guide companies in applying for grants that align with their financial needs."
+  },
+  {
+    "objectID": "posts/welcome/index.html#references",
+    "href": "posts/welcome/index.html#references",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "References",
+    "text": "References\nCentre for public impact. “National Clean Investment Fund | US EPA.” US EPA, 10 July 2023, www.epa.gov/greenhouse-gas-reduction-fund/national-clean-investment-fund#:~:text=Under%20the%20%2414%20billion%20National.\n“Race to the Top (RTT): Reforming Education in Key American States.” Centre for Public Impact (CPI), 15 Apr. 2016, www.centreforpublicimpact.org/case-study/race-to-the-top-education-competitive-grant-in-the-us.\nDepartment of Defence. “Defense Production Act Title III Expansion of Domestic Production Capability and Capacity | Research Funding.” Duke.edu, 12 July 2024, researchfunding.duke.edu/defense-production-act-title-iii-expansion-domestic-production-capability-and-capacity"
+  },
+  {
+    "objectID": "posts/welcome/index.html#data-description",
+    "href": "posts/welcome/index.html#data-description",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "Data description",
+    "text": "Data description\n\nData source and data cleaning steps\nThe data is sourced from TidyTuesday packgae on {github}[https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-10-03/readme.md]. This data set downloaded are then being filtered to only include the posted or forecasted grants with close date in 2024 or after, since the point of interest is about what could be useful grant opportunities for our clients.\nThe data cleaning steps consist of the following:"
+  },
+  {
+    "objectID": "posts/welcome/index.html#data-dictionary",
+    "href": "posts/welcome/index.html#data-dictionary",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "Data dictionary",
+    "text": "Data dictionary\n\nopportunity_id: Integer ID for this opportunity.\nopportunity_title character Title of the opportunity\nexpected_number_of_awards integer Expected count of awards\nestimated_total_program_funding double Estimated funding amount in dollars\naward_ceiling double Maximum individual award amount in dollars\naward_floor double Minimum individual award amount in dollars\ncategory: category classified by the function of grant opportunities"
+  },
+  {
+    "objectID": "posts/welcome/index.html#whats-next",
+    "href": "posts/welcome/index.html#whats-next",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "What’s next?",
+    "text": "What’s next?\nBy examining top funding categories and individual high-value grants, the report offers insights into where the US government allocates the most resources. The results indicate a substantial focus on health, environment, education, and infrastructure, with key opportunities for companies in these sectors to secure significant funding. The distribution of grant award ceilings and floors are also presented to guide companies in applying for grants that align with their financial needs.\nGovernment grants play a pivotal role in distributing funding across key sectors of the U.S. economy. With billions of dollars allocated annually, it’s essential for businesses and organizations to identify where the government focuses its investments to make informed decisions on funding applications. This post explores the landscape of U.S. government grants in 2024, with a focus on identifying the top grant categories and the most well-funded individual opportunities.\nThe U.S. government allocates a substantial budget to support a variety of projects through grant programs, with a particular focus on health, education, environment, and infrastructure. Start-ups and organizations lacking sufficient cash flow, or those considered high risk by traditional funding sources, can benefit greatly from these grants."
+  },
+  {
+    "objectID": "posts/welcome/index.html#big-winners-transportation-and-environment",
+    "href": "posts/welcome/index.html#big-winners-transportation-and-environment",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "Big Winners: Transportation and Environment",
+    "text": "Big Winners: Transportation and Environment\nIn Figure 2, transportation demonstrate the highest difference that soars to around $300 million. This means if you’re working on transportation-related projects, you’re looking at some serious funding potential. Infrastructure projects, for example, often require large sums, and this category reflects that.\nIt is not surprising that Environment follows as another key category with a substantial difference, over $100 million. If you’re working in areas like renewable energy or environmental protection, this is where the big bucks are. Energy also shows a notable difference, making it another promising area if your work involves innovative energy solutions."
+  },
+  {
+    "objectID": "posts/welcome/index.html#consistent-smaller-categories",
+    "href": "posts/welcome/index.html#consistent-smaller-categories",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "Consistent, Smaller Categories",
+    "text": "Consistent, Smaller Categories\nFor categories like education, employment, and science, the differences between ceilings and floors are much smaller. While these categories may not offer the same massive funding as transportation or environment, they still present great opportunities for projects with more moderate financial needs. These categories are likely to provide more consistent, steady grant sizes, making them ideal for smaller-scale initiatives."
+  },
+  {
+    "objectID": "posts/welcome/index.html#other-categories-with-potential",
+    "href": "posts/welcome/index.html#other-categories-with-potential",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "Other Categories with Potential",
+    "text": "Other Categories with Potential\nIf your work touches on consumer protection, disaster relief, regional development, or housing, there’s still meaningful funding here, but with more modest ceilings. These categories probably support more focused or smaller-scale projects, but they should not be ignored since there’s still plenty of room to explore."
+  },
+  {
+    "objectID": "posts/welcome/index.html#takeaways",
+    "href": "posts/welcome/index.html#takeaways",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "Takeaways:",
+    "text": "Takeaways:\nTransportation and Environment: If your project requires big budgets, these are the categories to watch. They’re where the largest funding gaps are, offering major potential if your project aligns.\nSmaller Project: Categories like education and employment are more stable with consistent funding, making them ideal for smaller, well-defined projects.\nSo, depending on your project’s needs, focusing on high-ceiling categories can give you a competitive edge when it comes to scaling, while smaller projects could thrive in categories offering more consistent funding. Knowing where the money is concentrated helps you strategise better and apply for the right grants!"
+  },
+  {
+    "objectID": "posts/welcome/index.html#data-source-and-data-cleaning-steps",
+    "href": "posts/welcome/index.html#data-source-and-data-cleaning-steps",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "Data source and data cleaning steps",
+    "text": "Data source and data cleaning steps\nThe data is sourced from TidyTuesday packgae on github. This data set downloaded are then being filtered to only include the posted or forecasted grants with close date in 2024 or after, since the point of interest is about what could be useful grant opportunities for our clients.\nThe data cleaning steps consist of the following:\n\n#1: First, filter the relevant data\ngrants &lt;- grants %&gt;% filter(opportunity_status!=\"Closed\" & opportunity_status != \"Archived\")\ngrant_detail_24 &lt;- grant_detail %&gt;% filter(current_closing_date_for_applications &gt; 2024)\n\n#2: Making category a variable by pivot longer \ngrants_long &lt;- grant_detail_24 %&gt;%\n  pivot_longer(\n    cols = \"category_agriculture\":\"category_other\",  \n    names_to = \"category\",         \n    values_to = \"value\"    \n  ) %&gt;%\n  filter(value == TRUE)\n\n#3: Remove the category prefix in category \ngrants_long &lt;- grants_long %&gt;% mutate(category = gsub(\"category_\", \"\", category))"
+  },
+  {
+    "objectID": "posts/welcome/index.html#data-variables",
+    "href": "posts/welcome/index.html#data-variables",
+    "title": "Exploring U.S. Government Grant Opportunities: A Guide for Businesses and Startups",
+    "section": "Data variables",
+    "text": "Data variables\nThe main variables used are category of grants, which is classified by the function of grant opportunities. Estimated total program funding is another summarising variable to rank the grants, as the more Estimated funding amount in dollars for the grants, the more focus they obtain. Award ceiling and award floor represent the maximum and minimum individual award amount in dollars correspondingly."
+  }
+]

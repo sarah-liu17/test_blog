@@ -1,0 +1,19 @@
+/* css styles */
+.navbar-dark, .quarto-title-banner {
+  background-color: #dab1da;
+}
+.quarto-title-banner h1 {color: #913db6
+}
+
+
+.quarto-title .quarto-categories .quarto-category {
+    padding: .25em .75em;
+    font-size: .65em;
+    text-transform: uppercase;
+    border: solid 1px;
+    border-radius: .25rem;
+    opacity: .6;
+    color: black;
+}
+
+
